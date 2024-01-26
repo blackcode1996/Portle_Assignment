@@ -17,7 +17,7 @@
 
 - At first, do a git clone of this repository.
 ```
-git clone https://github.com/blackcode1996/itaxeasy_assignment.git
+git clone https://github.com/blackcode1996/Portle_Assignment.git
 ```
 - After cloning it into your local system install all node modules.
 ```
@@ -27,3 +27,11 @@ npm i
 ```
 npm start
 ```
+
+## 🏛️Features:
+
+- Typing ```#``` as the first string in a line & pressing space make anything you type afterwards on the same line be in a “Heading” format. On pressing space the aforementioned ```#``` disappear. 
+- Typing ```*``` as the first string in a line and pressing space correspond to “bold” format
+- ```**``` and space = red line
+- ```***``` and space = underline
+- Pressing ```Save``` button persist everything typed in the editor into localstorage. On refreshing the page,  the saved info will be refilled into the editor.
