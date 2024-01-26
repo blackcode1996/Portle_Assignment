@@ -1,0 +1,8 @@
+.title{
+    width: max-content;
+    margin: auto;
+    padding: 15px;
+}
+.title>h2{
+    font-weight: 200;
+}
